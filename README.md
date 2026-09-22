@@ -1,4 +1,5 @@
 # Fundamentos de Inteligencia Artificial
+# Aylin Alondra Vargas Ramos
 
 Repositorio destinado al desarrollo y entrega de las actividades prácticas de la materia **Fundamentos de Inteligencia Artificial**.
 
